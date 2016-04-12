@@ -1,0 +1,18 @@
+git add .
+git add NOm.txt
+git commit -m "eeee"
+git push origin master
+git pull origin master
+
+git stash = vider le add local
+
+tab = suggestion de chemin
+
+To create a new git:
+-go to the web and init the repo on the website
+-go in bash in your local folder:
+$git init
+$git add Nom.txt
+$git commit -m"eeeeeee"
+$git remote add origin https://github.com/MisterTarock/Nom-du-repo.git
+$git push origin master
