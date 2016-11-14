@@ -1,0 +1,28 @@
+git add .
+git add NOm.txt
+git commit -m "eeee"
+git push origin master
+git pull origin master
+
+git stash = vider le add local
+
+tab = suggestion de chemin
+
+To create a new git:
+-go to the web and init the repo on the website
+-go in bash in your local folder:
+$git init
+$git add Nom.txt
+$git commit -m"eeeeeee"
+$git remote add origin https://github.com/MisterTarock/Nom-du-repo.git "origin peut etre remplacer par un nom défini par l'utilisateur" >>git remote add pui https://....
+
+pour mettre le ssh en action paste le lien ssh à la place afin de ne pas devoir tapper son mots de passe à chaque fois!! ;-)
+Pour creer une nouvelle clé ssh >>> https://help.github.com/articles/generating-an-ssh-key/
+
+
+$git push origin master  >>git push pui master
+
+To merge:
+:wq ":" reprenne les commandes, "w" write and save, "q" quit the mergeµ
+
+on peut voir dans Visual Studio ou PhpStorm par exemple l'etat des fichiers si oui ou non ils sont synchro avec git

@@ -1,0 +1,4 @@
+Commandes à lancé en console de commande ;)
+
+pip3.5 install numpy
+pip3.5 install upgrade pip
